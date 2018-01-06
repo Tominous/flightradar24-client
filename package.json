@@ -26,7 +26,7 @@
 		"fetch-ponyfill": "^4.1.0",
 		"moment-timezone": "^0.5.13",
 		"parse-jsonp": "^0.1.0",
-		"pinkie-promise": "^2.0.1"
+		"pinkie-promise": "^2.0.2"
 	},
 	"devDependencies": {
 		"tap-min": "^1.2.1",
